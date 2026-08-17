@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo/logo-256x256.png" width="160" alt="lnwjud logo" />
+  <img src="/logo-256x256.png" width="160" alt="lnwjud logo" />
 </p>
 
 <h1 align="center">lnwjud</h1>
